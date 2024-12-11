@@ -1,6 +1,4 @@
 import { createSlice, PayloadAction } from "@reduxjs/toolkit";
-import exp from "constants";
-import { console } from "inspector";
 
 export interface initialStateTypes {
   isSideBarCollapsed: boolean;
